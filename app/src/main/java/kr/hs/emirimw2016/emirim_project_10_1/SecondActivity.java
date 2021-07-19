@@ -19,7 +19,7 @@ public class SecondActivity extends AppCompatActivity {
     View.OnClickListener btnCloseListener = new View.OnClickListener() {
         @Override
         public void onClick(View v){
-
+            finish();
         }
     };
 }
