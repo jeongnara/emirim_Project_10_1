@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.RadioGroup;
+// Change ViewFlipper
 
 public class MainActivity extends AppCompatActivity {
     RadioGroup rg;
